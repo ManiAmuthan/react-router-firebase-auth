@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+   max-height: 100vh;
+}
+.staticHeight{
+  height: 600px;
+}
+.show-pointer{
+  cursor: pointer;
+}
+.alignLeft{
+  text-align: left;
+}
+
+.disp-none{
+  display: none;
+}
+
+.modalheight{
+  height: 89%;
+}

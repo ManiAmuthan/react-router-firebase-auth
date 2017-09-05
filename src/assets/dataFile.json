@@ -1,0 +1,48 @@
+{	
+	 "scenarios": {
+			"scenario_id" : {
+			 	"007":{
+					"scenario_id":"007",
+					"scenario_portfolio" : "Portfolio001",
+					"scenario_name" : "DummyPositiveScenario",
+					"scenario_region" : "APAC",
+					"scenario_profile" : "Risk",
+					"scenario_qualifier" : "DummyQualifier01",
+					"scenario_bump" : "10",
+					"scenario_country" : "Hong Kong"
+				},
+
+				"008":{
+					"scenario_id" : "008",
+					"scenario_portfolio" : "Portfolio002",
+					"scenario_name" : "DummyPositiveScenario1",
+					"scenario_region" : "EUR",
+					"scenario_profile" : "Moderate Risk",
+					"scenario_qualifier" : "DummyQualifier02",
+					"scenario_bump" : "20",
+					"scenario_country" : "India"
+				},	
+			
+			 	"009": {
+					"scenario_portfolio" : "Portfolio003",
+					"scenario_name" : "DummyPositiveScenario2",
+					"scenario_region" : "CES",
+					"scenario_profile" : "Aggresive",
+					"scenario_qualifier" : "DummyQualifier03",
+					"scenario_bump" : "30",
+					"scenario_country" : "China"
+				},
+
+				"010" : {	
+					"scenario_id" : "010",	
+					"scenario_portfolio" : "Portfolio004",
+					"scenario_name" : "DummyPositiveScenario3",
+					"scenario_region" : "AFR",
+					"scenario_profile" : "No Risk",
+					"scenario_qualifier" : "DummyQualifier04",
+					"scenario_bump" : "15",
+					"scenario_country" : "Japan"
+				 }
+			}
+	}
+} 
